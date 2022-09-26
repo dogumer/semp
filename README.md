@@ -1,6 +1,8 @@
 # semp (Selenium-Made-Simple)
 Semp is a markup language for selenium library which makes web manipulation easier and faster!
 
+<img src="https://user-images.githubusercontent.com/73137174/192388381-40cc3879-b6bf-4954-b153-7e2c85e6b222.png" alt="drawing" width="200"/>
+
 ## Advantages of semp:
 - Easy to understand
 - Faster coding (no worries about syntax)
