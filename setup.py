@@ -26,4 +26,8 @@ setup(name='semp',
       entry_points = {
           'console_scripts': ['semp=semp.command_line:main'],
           },
+      install_requires=[
+          'webdriver-manager',
+          'selenium',
+          ],
       zip_safe=False)
