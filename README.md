@@ -10,6 +10,10 @@ Semp is a markup language for selenium library which makes web manipulation easi
 - External .semp files
 - Directly start from terminal
 
+## How to Install:
+`pip install semp` 
+Usage: semp (filelocation)
+
 ## How To Use:
 browser / starts browser (browser used in line 1 is not in loop) \
 goto *webaddress / go to website \
