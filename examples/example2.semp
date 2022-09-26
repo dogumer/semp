@@ -1,0 +1,10 @@
+browser
+goto https://www.wikipedia.org/
+findelement byname search
+sendkeys guido-van-rossum
+submitelement
+sleep 5
+findelement byxpath /html/body/div[3]/div[3]/div[5]/div[1]/h2[3]
+scroll toelement
+getscreenshot /home/dogonso/Desktop/guido.png
+quitsemp

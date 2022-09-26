@@ -1,0 +1,9 @@
+browser
+goto https://pypi.org/
+sleep 3
+findelement byid search
+sendkeys pickitup
+submitelement
+sleep 3
+quitsemp
+
