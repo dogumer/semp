@@ -30,8 +30,8 @@ sleep *second / waiting time until next process starts \
 browser / starts browser again after quiting (used other than 1st line)
 
 ## Example .semp files:
-[Example 1]()
-[Example 2]()
+[Example 1](https://github.com/dogumer/semp/blob/main/examples/example1.semp)
+[Example 2](https://github.com/dogumer/semp/blob/main/examples/example2.semp)
 
 ## Libraries used in semp
 [SeleniumHQ](https://github.com/SeleniumHQ) - [Selenium](https://github.com/SeleniumHQ/selenium) \
